@@ -1,209 +1,241 @@
-<h1 align="center">Hi 👋, I'm Paarth Dubey</h1>
+<div align="center">
 
-<h3 align="center">
-Full Stack Developer • Exploring Agentic AI • Building Scalable & Intelligent Systems
-</h3>
+```
+██████╗  █████╗  █████╗ ██████╗ ████████╗██╗  ██╗    ██████╗ ██╗   ██╗██████╗ ███████╗██╗   ██╗
+██╔══██╗██╔══██╗██╔══██╗██╔══██╗╚══██╔══╝██║  ██║    ██╔══██╗██║   ██║██╔══██╗██╔════╝╚██╗ ██╔╝
+██████╔╝███████║███████║██████╔╝   ██║   ███████║    ██║  ██║██║   ██║██████╔╝█████╗   ╚████╔╝ 
+██╔═══╝ ██╔══██║██╔══██║██╔══██╗   ██║   ██╔══██║    ██║  ██║██║   ██║██╔══██╗██╔══╝    ╚██╔╝  
+██║     ██║  ██║██║  ██║██║  ██║   ██║   ██║  ██║    ██████╔╝╚██████╔╝██████╔╝███████╗   ██║   
+╚═╝     ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝   ╚═╝   ╚═╝  ╚═╝    ╚═════╝  ╚═════╝ ╚═════╝ ╚══════╝   ╚═╝   
+```
 
-<p align="center">
-Passionate self-driven developer from India 🇮🇳 focused on Full Stack Development, AI Automation, DevOps, and emerging technologies.
-</p>
+</div>
 
-<p align="center">
-I enjoy building real-world projects, exploring modern technologies, and continuously improving through hands-on development.
-</p>
+<div align="center">
 
----
+# Hi, I'm Paarth Dubey 👋
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=Paarth0o0&label=Profile%20Views&color=0e75b6&style=flat" alt="Paarth0o0" />
-</p>
+**`Full Stack Developer · Exploring Agentic AI · Building Scalable & Intelligent Systems`**
 
----
+<img src="https://komarev.com/ghpvc/?username=paarth0o0&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 
-## 🚀 About Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/paarth-dubey)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Paarth0o0)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:parthdubeyv7@gmail.com)
 
-- 🔭 Currently building an **Agentic AI Automation System** focused on intelligent workflows and orchestration
-
-- 🌱 Currently exploring **Agentic AI, LangChain, Docker, AWS, DevOps, Workflow Automation & Cloud Technologies**
-
-- 👯 Open to collaborating on **Full Stack, AI Automation & Open Source Projects**
-
-- 💬 Ask me about **React.js, Node.js, PHP, MongoDB, MySQL, REST APIs & Full Stack Development**
-
-- 📫 Reach me at **parthdubeyv7@gmail.com**
-
-- ⚡ Fun fact: I represented my college in SGBAU badminton tournaments while independently learning software engineering
+</div>
 
 ---
 
-## 💡 About Me
+## ◈ About Me
 
-I'm a fresher developer, but not a passive learner.
+```yaml
+name        : Paarth Dubey
+location    : Maharashtra, India 🇮🇳
+education   : BCA @ Shankarlal Khandelwal College (CGPA: 7.8 / 10)
+role        : Full Stack Developer
+exploring   : Agentic AI · DevOps · Cloud · Workflow Automation
+status      : Open to opportunities & collaborations
+```
 
-I build projects, explore modern technologies, and continuously experiment with new tools to improve my problem-solving abilities.
+I'm a **self-driven developer** who believes the best way to learn is to build. I started with programming fundamentals and gradually expanded into full-stack development, backend systems, and now the frontier of **Agentic AI and automation**.
 
-Alongside Full Stack Development, I’m actively exploring Agentic AI, automation systems, DevOps, and scalable technologies shaping the future of software engineering.
+I don't limit myself to a single stack. I enjoy exploring across domains — from engineering scalable backend APIs to experimenting with AI agents, orchestration workflows, and cloud infrastructure. Every project I take on is treated like a **professional codebase**, not a throwaway exercise.
 
----
-
-## 🧠 Current Interests
-
-- Agentic AI
-- Workflow Automation
-- Full Stack Engineering
-- DevOps & Cloud
-- AI Integrations
-- Scalable Backend Systems
-- Web Technologies
-- Emerging Technologies
+> *"Curiosity builds the developer. Consistency builds the engineer."*
 
 ---
 
-## 🛠️ Languages & Tools
-
-<p align="left">
-
-<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
-</a>
-
-<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
-</a>
-
-<a href="https://www.java.com" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-</a>
-
-<a href="https://www.python.org" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-</a>
-
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-</a>
-
-<a href="https://www.php.net" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
-</a>
-
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-</a>
-
-<a href="https://nodejs.org" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-</a>
-
-<a href="https://expressjs.com" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
-</a>
-
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
-</a>
-
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-</a>
-
-<a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
-</a>
-
-<a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
-</a>
-
-<a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
-</a>
-
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-</a>
-
-<a href="https://github.com/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg" alt="github" width="40" height="40"/>
-</a>
-
-<a href="https://postman.com" target="_blank" rel="noreferrer">
-<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
-</a>
-
-<a href="https://vercel.com/" target="_blank" rel="noreferrer">
-<img src="https://www.svgrepo.com/show/327408/logo-vercel.svg" alt="vercel" width="40" height="40"/>
-</a>
-
-</p>
-
----
-
-## 📌 Featured Projects
-
-### 🔹 Personal Portfolio Website
-Responsive portfolio website showcasing projects, technical skills, and development journey using React.js.
-
-### 🔹 Library Management System
-Role-based library management system with CRUD operations, inventory management, issue-return tracking, and fine calculation.
-
-### 🔹 Agentic AI Automation Project
-AI-powered automation and orchestration system currently under active development.
-
----
-
-## 🌐 Connect With Me
-
-<p align="left">
-
-<a href="https://linkedin.com/in/paarth-dubey" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="paarth-dubey" height="30" width="40" />
-</a>
-
-<a href="https://github.com/Paarth0o0" target="blank">
-<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github" height="30" width="40" />
-</a>
-
-</p>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Paarth0o0&show_icons=true&theme=tokyonight" alt="stats" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Paarth0o0&theme=tokyonight" alt="streak" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Paarth0o0&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="langs" />
-</p>
-
----
-
-## 🏆 Achievements
-
-- 🥈 Runner-Up in 2 Hackathons for developing innovative problem-solving applications
-- 🏸 Represented my college in SGBAU University badminton tournaments
-- 📚 Maintaining strong academics while independently learning modern technologies
-
----
-
-## 💻 What I Bring
+## ◈ Developer Mindset
 
 ```txt
-• Strong self-learning mindset
-• Real-world project building approach
-• Curiosity-driven development
-• Cross-domain technology exploration
-• Fast adaptability to modern tools
-• Passion for solving practical problems
-• Consistency and discipline
+┌─────────────────────────────────────────────────────────┐
+│                                                         │
+│   I believe growth comes from building real things.    │
+│                                                         │
+│   Not just studying documentation — but shipping,      │
+│   breaking, debugging, and iterating on real code.     │
+│                                                         │
+│   My focus: becoming a developer capable of building   │
+│   intelligent systems that solve real-world problems.  │
+│                                                         │
+└─────────────────────────────────────────────────────────┘
 ```
 
 ---
 
-<h3 align="center">⭐ Always learning, always building.</h3>
+## ◈ Current Focus
+
+| Domain | What I'm Exploring |
+|---|---|
+| 🤖 **Agentic AI** | AI agents, LLM APIs, LangChain, n8n orchestration |
+| ⚙️ **Workflow Automation** | Automation pipelines, intelligent task orchestration |
+| 🌐 **Full Stack Engineering** | React.js, Node.js, REST APIs, PHP backend systems |
+| ☁️ **DevOps & Cloud** | Docker, AWS, CI/CD pipelines, cloud infrastructure |
+| 🧠 **AI Integrations** | LLM integrations, AI-powered applications |
+| 🏗️ **Scalable Backends** | System design, database optimization, architecture |
+
+---
+
+## ◈ Tech Stack
+
+**Languages**
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
+
+**Frontend**
+
+![React](https://img.shields.io/badge/React.js-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+
+**Backend & Databases**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+**Tools & Platforms**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+
+---
+
+## ◈ Featured Projects
+
+<details>
+<summary><b>🔹 Personal Portfolio Website</b> — React.js · JavaScript · CSS3</summary>
+<br>
+
+> A responsive developer portfolio built to showcase projects, skills, and my engineering journey.
+
+- Designed and built with **React.js** using reusable, modular components
+- Fully responsive UI with clean visual hierarchy and smooth transitions
+- Reflects my approach to frontend: purposeful, clean, and professional
+
+**Status:** `[Live Soon]`
+
+</details>
+
+---
+
+<details>
+<summary><b>🔹 Library Management System</b> — PHP · MySQL · Bootstrap · JavaScript</summary>
+<br>
+
+> A complete role-based library management application with real operational logic.
+
+- Built with **PHP + MySQL** using full CRUD operations and role-based access control
+- Features: inventory management, book issue-return tracking, and automated fine calculation
+- Demonstrates backend architecture, database design, and practical software thinking
+
+**Status:** `[Live Soon]`
+
+</details>
+
+---
+
+<details>
+<summary><b>🔹 Agentic AI Automation Project</b> — n8n · LLM APIs · Workflow Automation</summary>
+<br>
+
+> An intelligent automation and orchestration system powered by modern AI integrations.
+
+- Building with **n8n, LLM APIs, and AI agent frameworks** for autonomous task execution
+- Focused on intelligent workflow design, multi-step orchestration, and agentic pipelines
+- Currently in active development — details intentionally undisclosed during experimentation
+
+**Status:** `🚧 In Active Development`
+
+</details>
+
+---
+
+## ◈ GitHub Stats
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=paarth0o0&show_icons=true&locale=en&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=paarth0o0&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=paarth0o0&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+
+</div>
+
+---
+
+## ◈ Achievements
+
+```
+🏆  Runner-Up in 2 Hackathons
+      → Built problem-solving applications under real-time competitive pressure
+
+🏸  Represented College in SGBAU University Badminton Tournaments
+      → Discipline, focus, and performing under pressure — applied to code too
+
+📚  7.8 CGPA while independently learning Full Stack & Emerging Technologies
+      → Academics and self-driven engineering, simultaneously
+
+🔬  Self-Taught Across Multiple Domains
+      → Full Stack · Agentic AI · DevOps · Cloud · Automation — all self-initiated
+```
+
+---
+
+## ◈ Beyond the Code
+
+- 🏸 **Competitive Badminton** — Sports taught me pressure management, discipline, and teamwork
+- 🎵 **Music & Instruments** — Builds patience, structured thinking, and an eye for detail
+- 🌍 **Traveller & Explorer** — New perspectives make me a better problem-solver
+- 📖 **Continuous Learner** — Docker, Solidity, AI tools, automation — always experimenting
+
+---
+
+## ◈ What I Bring
+
+```txt
+✦  Strong self-learning mindset — I figure things out
+✦  Real project experience — not just tutorials
+✦  Cross-domain curiosity — full stack to AI to DevOps
+✦  Fast learner who adapts to new tools and stacks quickly
+✦  Consistency — I show up and keep building
+✦  Passion for emerging technologies and intelligent systems
+✦  Professional approach to personal projects
+```
+
+---
+
+## ◈ Let's Connect
+
+I'm open to **internships, collaborations, and opportunities** where curiosity and strong learning ability are valued.
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/paarth-dubey)
+[![Email](https://img.shields.io/badge/Send%20an%20Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:parthdubeyv7@gmail.com)
+[![GitHub](https://img.shields.io/badge/Explore%20My%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Paarth0o0)
+
+</div>
+
+---
+
+<div align="center">
+
+**⭐ Always learning, always building.**
+
+</div>
