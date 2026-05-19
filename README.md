@@ -51,13 +51,13 @@ I don't limit myself to a single stack. I enjoy exploring across domains — fro
 ```txt
 ┌─────────────────────────────────────────────────────────┐
 │                                                         │
-│   I believe growth comes from building real things.    │
+│   I believe growth comes from building real things.     │
 │                                                         │
-│   Not just studying documentation — but shipping,      │
-│   breaking, debugging, and iterating on real code.     │
+│   Not just studying documentation — but shipping,       │
+│   breaking, debugging, and iterating on real code.      │
 │                                                         │
-│   My focus: becoming a developer capable of building   │
-│   intelligent systems that solve real-world problems.  │
+│   My focus: becoming a developer capable of building    │
+│   intelligent systems that solve real-world problems.   │
 │                                                         │
 └─────────────────────────────────────────────────────────┘
 ```
