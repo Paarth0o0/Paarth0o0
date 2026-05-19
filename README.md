@@ -15,6 +15,8 @@
 
 # Hi, I'm Paarth Dubey 👋
 
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=34&pause=1000&color=FF8800&center=true&vCenter=true&random=false&width=900&lines=Full+Stack+Developer;Exploring+Agentic+AI;Building+Intelligent+Systems" />
+
 **`Full Stack Developer · Exploring Agentic AI · Building Scalable & Intelligent Systems`**
 
 <img src="https://komarev.com/ghpvc/?username=paarth0o0&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
