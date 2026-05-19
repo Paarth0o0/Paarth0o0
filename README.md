@@ -1,42 +1,34 @@
 <h1 align="center">Hi 👋, I'm Paarth Dubey</h1>
 
 <h3 align="center">
-Full Stack Developer • Building AI-Driven Systems • Exploring Agentic AI, Automation & Scalable Technologies
+Full Stack Developer • Exploring Agentic AI • Building Scalable & Intelligent Systems
 </h3>
 
 <p align="center">
-Passionate developer from India 🇮🇳 focused on building real-world software solutions and exploring the future of AI-driven systems, automation, and scalable technologies.
+Passionate self-driven developer from India 🇮🇳 focused on Full Stack Development, AI Automation, DevOps, and emerging technologies.
 </p>
 
 <p align="center">
-I enjoy learning across domains — from Full Stack Development to Agentic AI, DevOps, Cloud, and Workflow Automation.
+I enjoy building real-world projects, exploring modern technologies, and continuously improving through hands-on development.
 </p>
 
 ---
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=paarth0o0&label=Profile%20Views&color=0e75b6&style=flat" alt="paarth0o0" />
-</p>
-
-<p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=paarth0o0&theme=algolia&margin-w=15&margin-h=15" alt="paarth0o0" />
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=Paarth0o0&label=Profile%20Views&color=0e75b6&style=flat" alt="Paarth0o0" />
 </p>
 
 ---
 
 ## 🚀 About Me
 
-- 🔭 Currently building an **Agentic AI Automation System** focused on intelligent workflows, orchestration, and modern AI integrations
+- 🔭 Currently building an **Agentic AI Automation System** focused on intelligent workflows and orchestration
 
-- 🌱 Exploring **Agentic AI, LangChain, Docker, AWS, DevOps, Workflow Automation, LLM APIs & Cloud Technologies**
+- 🌱 Currently exploring **Agentic AI, LangChain, Docker, AWS, DevOps, Workflow Automation & Cloud Technologies**
 
-- 👯 Open to collaborating on **Full Stack, AI Automation, and impactful Open Source Projects**
+- 👯 Open to collaborating on **Full Stack, AI Automation & Open Source Projects**
 
-- 🤝 Looking for guidance in **AI Engineering, scalable backend systems, and cloud architecture**
-
-- 💬 Ask me about **React.js, PHP, Node.js, MongoDB, MySQL, REST APIs & Full Stack Development**
+- 💬 Ask me about **React.js, Node.js, PHP, MongoDB, MySQL, REST APIs & Full Stack Development**
 
 - 📫 Reach me at **parthdubeyv7@gmail.com**
 
@@ -54,21 +46,6 @@ Alongside Full Stack Development, I’m actively exploring Agentic AI, automatio
 
 ---
 
-## 🚀 Developer Mindset
-
-```txt
-I believe growth comes from building.
-
-I enjoy exploring technologies beyond a single stack —
-from full stack engineering to AI automation, DevOps,
-cloud systems, and scalable architectures.
-
-Currently focused on becoming a developer capable of
-building intelligent systems that solve real-world problems.
-```
-
----
-
 ## 🧠 Current Interests
 
 - Agentic AI
@@ -77,23 +54,8 @@ building intelligent systems that solve real-world problems.
 - DevOps & Cloud
 - AI Integrations
 - Scalable Backend Systems
+- Web Technologies
 - Emerging Technologies
-- Automation Pipelines
-- Cloud Infrastructure
-
----
-
-## 🌐 Connect With Me
-
-<p align="left">
-<a href="https://linkedin.com/in/paarth-dubey" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="paarth-dubey" height="30" width="40" />
-</a>
-
-<a href="https://github.com/Paarth0o0" target="blank">
-<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github" height="30" width="40" />
-</a>
-</p>
 
 ---
 
@@ -190,19 +152,43 @@ AI-powered automation and orchestration system currently under active developmen
 
 ---
 
+## 🌐 Connect With Me
+
+<p align="left">
+
+<a href="https://linkedin.com/in/paarth-dubey" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="paarth-dubey" height="30" width="40" />
+</a>
+
+<a href="https://github.com/Paarth0o0" target="blank">
+<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github" height="30" width="40" />
+</a>
+
+</p>
+
+---
+
 ## 📊 GitHub Stats
 
-<p>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=paarth0o0&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="paarth0o0" />
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Paarth0o0&show_icons=true&theme=tokyonight" alt="stats" />
 </p>
 
-<p>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=paarth0o0&show_icons=true&locale=en&theme=tokyonight" alt="paarth0o0" />
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Paarth0o0&theme=tokyonight" alt="streak" />
 </p>
 
-<p>
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=paarth0o0&theme=tokyonight" alt="paarth0o0" />
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Paarth0o0&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="langs" />
 </p>
+
+---
+
+## 🏆 Achievements
+
+- 🥈 Runner-Up in 2 Hackathons for developing innovative problem-solving applications
+- 🏸 Represented my college in SGBAU University badminton tournaments
+- 📚 Maintaining strong academics while independently learning modern technologies
 
 ---
 
@@ -211,12 +197,11 @@ AI-powered automation and orchestration system currently under active developmen
 ```txt
 • Strong self-learning mindset
 • Real-world project building approach
-• Cross-domain technology exploration
 • Curiosity-driven development
-• Consistency and adaptability
+• Cross-domain technology exploration
+• Fast adaptability to modern tools
 • Passion for solving practical problems
-• Fast learning ability
-• Strong interest in emerging technologies
+• Consistency and discipline
 ```
 
 ---
